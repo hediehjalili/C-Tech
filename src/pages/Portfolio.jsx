@@ -1,10 +1,27 @@
 import ProjectCard from "../components/ProjectCard";
 
 const allProjects = [
-  { id: 1, title: "Modern Villa", image: "https://via.placeholder.com/300" },
-  { id: 2, title: "Urban Office", image: "https://via.placeholder.com/300" },
-  { id: 3, title: "Eco House", image: "https://via.placeholder.com/300" },
-  { id: 4, title: "Minimal Loft", image: "https://via.placeholder.com/300" },
+  {
+    id: 1,
+    title: "Modern Villa",
+    image:
+      "/src/assets/Abstract-Minimalist-Architecture-Design-Apartment-Cape-Town-South-Africa_2.jpg",
+  },
+  {
+    id: 2,
+    title: "Urban Office",
+    image: "/src/assets/istockphoto-1151903312-612x612.jpg",
+  },
+  {
+    id: 3,
+    title: "Eco House",
+    image: "/src/assets/columbia-heights-torti1.jpg",
+  },
+  {
+    id: 4,
+    title: "Minimal Loft",
+    image: "/src/assets/modern-building-6252024-1024x1024.jpg",
+  },
 ];
 
 const Portfolio = () => (

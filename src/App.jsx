@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 import Portfolio from "./pages/Portfolio";
 import ProjectDetail from "./pages/ProjectDetail";
 import Contact from "./pages/Contact";
-
+import FormPage from "./pages/FormPage";
 function App() {
   return (
     <Router>
@@ -17,6 +17,7 @@ function App() {
             <Route path="/portfolio" element={<Portfolio />} />
             <Route path="/project/:id" element={<ProjectDetail />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/form" element={<FormPage />} />
           </Routes>
         </main>
         <Footer />
