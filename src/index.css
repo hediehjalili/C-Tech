@@ -1,6 +1,6 @@
 @import "tailwindcss";
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&display=swap');
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Josefin Slab', serif;
+  background-color: #f0f0f0;
 }

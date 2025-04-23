@@ -4,29 +4,29 @@ const featuredProjects = [
   {
     id: 1,
     title: "Modern Villa",
-    image: "./src/assets/HAC_photo_by_Iwan_Baan_2.jpg",
+    image: "./assets/HAC_photo_by_Iwan_Baan_2.jpg",
   },
   {
     id: 2,
     title: "Urban Office",
     image:
-      "./src/assets/101_Worlds_Best_Modern_Architecture_Buildings_Main_Neuroject_0-1024x705.jpg",
+      "./assets/101_Worlds_Best_Modern_Architecture_Buildings_Main_Neuroject_0-1024x705.jpg",
   },
   {
     id: 3,
     title: "Minimal",
     image:
-      "/src/assets/Abstract-Minimalist-Architecture-Design-Apartment-Cape-Town-South-Africa_2.jpg",
+      "./assets/Abstract-Minimalist-Architecture-Design-Apartment-Cape-Town-South-Africa_2.jpg",
   },
   {
     id: 4,
     title: " House",
-    image: "./src/assets/modern-building-6252024-1024x1024.jpg",
+    image: "./assets/modern-building-6252024-1024x1024.jpg",
   },
   {
     id: 5,
     title: " Classic",
-    image: "./src/assets/images (1).jpeg",
+    image: "./assets/images (1).jpeg",
   },
 ];
 

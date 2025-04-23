@@ -12,9 +12,9 @@ const projects = [
     title: "Modern Villa",
     description: "A beautiful modern villa in the hills.",
     images: [
-      "/src/assets/image/istockphoto-476190573-612x612.jpg",
-      "/src/assets/101_Worlds_Best_Modern_Architecture_Buildings_Main_Neuroject_0-1024x705.jpg",
-      "/src/assets/modern-building-6252024-1024x1024.jpg",
+      "/assets/image/istockphoto-476190573-612x612.jpg",
+      "/assets/101_Worlds_Best_Modern_Architecture_Buildings_Main_Neuroject_0-1024x705.jpg",
+      "/assets/modern-building-6252024-1024x1024.jpg",
     ],
   },
   {
@@ -22,9 +22,8 @@ const projects = [
     title: "Urban Office",
     description: "A stylish office in the city center.",
     images: [
-      "/src/assets/minimalist-white-office-furniture.webp",
-      "/src/assets/Minimalist-home-office-IKEA-desk-hack-4.jpg",
-      "/src/assets/j.jpg",
+      "/assets/Minimalist-home-office-IKEA-desk-hack-4.jpg",
+      "/assets/j.jpg",
     ],
   },
   {
@@ -32,9 +31,9 @@ const projects = [
     title: "Urban Apartment",
     description: "Urban Apartment in the city center.",
     images: [
-      "/src/assets/unieditorial2025-01-29T10-00-28-339191.jpg",
-      "/src/assets/columbia-heights-torti1.jpg",
-      "/src/assets/istockphoto-1151903312-612x612.jpg",
+      "/assets/unieditorial2025-01-29T10-00-28-339191.jpg",
+      "/assets/columbia-heights-torti1.jpg",
+      "/assets/istockphoto-1151903312-612x612.jpg",
     ],
   },
   {
